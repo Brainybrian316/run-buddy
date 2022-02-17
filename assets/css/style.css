@@ -68,7 +68,6 @@ footer div {
 footer a {
     color: #024e76
 }
-/*applying style to form */
 section{
     padding: 60px;
 }
@@ -85,10 +84,10 @@ section{
 /* Style Form Start */
 .hero-form { 
     border: 3px solid #024e76;
-    color: #024e76;
     background-color: #fce138;
     padding:  20px;
     width: 500px;
+    color: #024e76;
     position: absolute;
     bottom: 120px;
     right: 140px;
@@ -102,7 +101,7 @@ section{
 margin: 5px 0 15px 0;
 }
 
-.hero-form input{
+.form-input{
     border: 1px solid #024e76;
     display: block;
     padding: 7px 15px;
